@@ -1,1 +1,1 @@
-Express query challange
+EJS memanggil fungsi dari app.js
